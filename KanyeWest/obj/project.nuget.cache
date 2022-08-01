@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W+H/Tq+VXOy6dxrY7c8QEpmPmYjziYRVu4pYA3QFZaKcGumBt9HpsvB5T/jCg4O2fGFOjtr6WrVM90ntzM2T4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Damion\\source\\repos\\KanyeWest\\KanyeWest\\KanyeWest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Damion\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
